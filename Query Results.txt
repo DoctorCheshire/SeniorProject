@@ -1,0 +1,129 @@
+127.0.0.1/test/recipes/		http://localhost/phpmyadmin/tbl_sql.php?db=test&table=recipes
+ Showing rows 0 - 120 (121 total, Query took 0.0026 seconds.)
+
+SELECT recipe_title FROM recipes
+
+
+recipe_title	
+Merrys Mulled Cider	
+Strawberry & Banana French Toast	
+Elven Lembas Bread	
+Bilbo’s Tea Cake	
+Smaug’s Gems	
+Vegan Bao Buns with Pulled Jackfruit	
+Korean Style Popcorn Chicken	
+New Orleans Beignets	
+Philly Cheesesteaks	
+Pepperoni Pizza	
+Tiramisu	
+Homemade Cannoli	
+Spaghetti and Meatballs Recipe (VIDEO)	
+Ratatouille	
+Holiday Brie en Croute	
+CROQUE MONSIEUR	
+Beef Bourguignon	
+Classic Entrecote À La Bordelaise	
+Manti	
+Easy Korean Beef Bibimbap Recipe	
+Korean Black Bean Noodles (Jajangmyeon)	
+Kimchi Fries	
+Quick and Easy Kimchi Ramen	
+Salmon Bibimap Korean Rice Bowl	
+Beef Bulgogi Bowls, a Korean Favorite	
+German-Style Pretzels	
+German Soft Pretzel Sticks	
+Fried Semolina Dumplings with Apricots and Apricot...	
+Candy Cookies	
+Lamb Schnitzel with Aioli	
+Baked Spaetzle with Green Pea Pesto	
+Greek Salad (Horiatiki)	
+Greek Pasta Salad	
+Greek Honey-Dipped Walnut Spice Cookies (Melomakar...	
+Greek Fried Cheese	
+Greek Grilled Eggplant Spread (Melitzanosalata)	
+Cretan Cheese Pies with Thyme and Honey (Kalitsoun...	
+Fish tacos	
+California burrito	
+California Burrito	
+California Carne Asada Burrito	
+California breakfast burrito	
+Baked Chicken Taquitos	
+Homemade Chorizo	
+Japanese Gyoza	
+Gyoza ??(????)	
+Traditional Japanese Rice	
+Merrys Mulled Cider	
+Strawberry & Banana French Toast	
+Elven Lembas Bread	
+Bilbo’s Tea Cake	
+Smaug’s Gems	
+Vegan Bao Buns with Pulled Jackfruit	
+Korean Style Popcorn Chicken	
+New Orleans Beignets	
+Philly Cheesesteaks	
+Pepperoni Pizza	
+Tiramisu	
+Homemade Cannoli	
+Spaghetti and Meatballs Recipe (VIDEO)	
+Ratatouille	
+Holiday Brie en Croute	
+CROQUE MONSIEUR	
+Beef Bourguignon	
+Classic Entrecote À La Bordelaise	
+Manti	
+Easy Korean Beef Bibimbap Recipe	
+Korean Black Bean Noodles (Jajangmyeon)	
+Kimchi Fries	
+Quick and Easy Kimchi Ramen	
+Salmon Bibimap Korean Rice Bowl	
+Beef Bulgogi Bowls, a Korean Favorite	
+German-Style Pretzels	
+German Soft Pretzel Sticks	
+Fried Semolina Dumplings with Apricots and Apricot...	
+Candy Cookies	
+Lamb Schnitzel with Aioli	
+Baked Spaetzle with Green Pea Pesto	
+Greek Salad (Horiatiki)	
+Greek Pasta Salad	
+Greek Honey-Dipped Walnut Spice Cookies (Melomakar...	
+Greek Fried Cheese	
+Greek Grilled Eggplant Spread (Melitzanosalata)	
+Cretan Cheese Pies with Thyme and Honey (Kalitsoun...	
+Gulab Jamun (Cardamom Syrup-soaked Donuts)	
+Maacher Jhol (Bengali-style Fish Stew)	
+Spiced Tea, Malsala Chai	
+Easy Korean Beef Bibimbap Recipe	
+Korean Black Bean Noodles (Jajangmyeon)	
+Kimchi Fries	
+Quick and Easy Kimchi Ramen	
+Salmon Bibimap Korean Rice Bowl	
+Beef Bulgogi Bowls, a Korean Favorite	
+German-Style Pretzels	
+German Soft Pretzel Sticks	
+Fried Semolina Dumplings with Apricots and Apricot...	
+Candy Cookies	
+Lamb Schnitzel with Aioli	
+Baked Spaetzle with Green Pea Pesto	
+Greek Salad (Horiatiki)	
+
+Greek Pasta Salad	
+Greek Honey-Dipped Walnut Spice Cookies (Melomakar...	
+Greek Fried Cheese	
+Greek Grilled Eggplant Spread (Melitzanosalata)	
+Cretan Cheese Pies with Thyme and Honey (Kalitsoun...	
+Gulab Jamun (Cardamom Syrup-soaked Donuts)	
+Maacher Jhol (Bengali-style Fish Stew)	
+Spiced Tea, Malsala Chai	
+Goan Coconut Cake (Baath)	
+Chicken and Shrimp Curry	
+Chicken Tikka Masala	
+Bakery Style Crusty French Bread	
+Rustic Italian Bread	
+Ciabatta Bread	
+Whole Wheat Sandwich Bread with Oats	
+Easy Buttermilk Drop Biscuits	
+Easy Breadsticks	
+Homemade Pretzel Rolls	
+Farmhouse White Sandwich Bread	
+Easy Perfect Yeast Bread	
+Greek New Years Bread (Vasilopita)	
